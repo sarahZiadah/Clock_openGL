@@ -1,0 +1,16 @@
+.vs/
+x64/
+*.vcxproj.user
+*.suo
+*.sdf
+*.cache
+*.db
+*.ipch
+*.obj
+*.pdb
+*.ilk
+*.log
+*.tlog
+*.tmp
+*.VC.db
+*.dir
