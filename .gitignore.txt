@@ -1,0 +1,14 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# System files
+*.LOG
+*.ini
+ntuser.dat*
+Thumbs.db
+Desktop.ini
+
